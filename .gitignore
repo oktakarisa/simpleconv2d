@@ -31,3 +31,7 @@ Thumbs.db
 # Large data files (auto-downloaded on first run)
 *.pkl
 data/*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
