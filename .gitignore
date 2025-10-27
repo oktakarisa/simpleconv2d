@@ -27,3 +27,7 @@ Thumbs.db
 # Temporary files
 *.log
 *.tmp
+
+# Large data files (auto-downloaded on first run)
+*.pkl
+data/*.pkl
